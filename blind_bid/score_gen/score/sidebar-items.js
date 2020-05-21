@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["compute_score",""],["compute_score_gadget","Computes the score of the bid printing in the ConstraintSystem the proof of the correct obtention of the score."]]});
